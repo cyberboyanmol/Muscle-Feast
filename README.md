@@ -1,70 +1,33 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div  style="padding: 2rem;
+        border-radius:1rem;
+     box-shadow: rgba(50, 50, 93, 0.8) 0px 6px 12px -2px, rgba(50, 50, 93, 0.8) 0px 3px 7px -3px;
+     margin-bottom:2rem;
+     font-size:2rem">
+<h1>Muscle Feast Workout Web App</h1>  
+   <i>Muscle Feast is a modern fitness and exercise web application.It uses  <span style="color:#1460e5">ExerciseDB</span> and  <span style="color:#1460e5" > Youtube Search and Download</span> api, ExerciseDB API provide quick and easy access to a wide variety of exercise data. As a result, this web application can return 1300+  Exercises results. You can search exercises as you want and see the details,similar exercises along with exercise videos fetched from youtube search and download api on the basis of exercises, muscle groups, body parts, or types of equipment. </i>
+</div>
 
-## Available Scripts
+# Preview 
+## <a href="https://muscle-feast.netlify.app/">Live site</a>
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-1.png?token=GHSAT0AAAAAABXQPGQQK5MFBICLNTDJLYAYYXXSTLA
+"Responsive Muscle Feast App With ExerciseDB API")
 
-In the project directory, you can run:
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-6.png?token=GHSAT0AAAAAABXQPGQRHZMI7BCRUE2QR24OYXXSW2A
+"Responsive Muscle Feast App With ExerciseDB API")
 
-### `npm start`
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-8.png?token=GHSAT0AAAAAABXQPGQRRST3IRVTDWQTA5E2YXXSWUQ
+"Responsive Muscle Feast App With ExerciseDB API")
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-3.png?token=GHSAT0AAAAAABXQPGQRSY42L5EB6R4UX25UYXXSWXA
+"Responsive Muscle Feast App With ExerciseDB API")
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-2.png?token=GHSAT0AAAAAABXQPGQQSQ45SOLPKT4YQOLIYXXSWWA
+"Responsive Muscle Feast App With ExerciseDB API")
 
-### `npm test`
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-5.png?token=GHSAT0AAAAAABXQPGQROJGJU55TYLCL3IMGYXXSWZA
+"Responsive Muscle Feast App With ExerciseDB API")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-7.png?token=GHSAT0AAAAAABXQPGQRVYIKFHM6LM5MCTMCYXXSXYQ
+"Responsive Muscle Feast App With ExerciseDB API")
