@@ -9,7 +9,7 @@
 </div>
 
 # Preview 
-## <a href="https://muscle-feast.netlify.app/">Live site</a>
+## <a href="https://muscle-feast.onrender.com/">Live site</a>
 !["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-1.png?token=GHSAT0AAAAAABXQPGQQK5MFBICLNTDJLYAYYXXSTLA
 "Responsive Muscle Feast App With ExerciseDB API")
 
