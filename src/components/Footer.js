@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
       <div className="creator">
         {" "}
-        Created by <a href="https://github.com/Robin-Anmol">Robin-Anmol</a>
+        Created by <a href="https://github.com/cyberboyanmol">Robin-Anmol</a>
       </div>
     </Div>
   );
