@@ -13,19 +13,19 @@
 !["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-1.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-6.png?token=GHSAT0AAAAAABXQPGQRHZMI7BCRUE2QR24OYXXSW2A
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-6.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-8.png?token=GHSAT0AAAAAABXQPGQRRST3IRVTDWQTA5E2YXXSWUQ
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-8.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-3.png?token=GHSAT0AAAAAABXQPGQRSY42L5EB6R4UX25UYXXSWXA
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-3.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-2.png?token=GHSAT0AAAAAABXQPGQQSQ45SOLPKT4YQOLIYXXSWWA
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-2.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
-!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-5.png?token=GHSAT0AAAAAABXQPGQROJGJU55TYLCL3IMGYXXSWZA
+!["Responsive Muscle Feast App With ExerciseDB API"](https://raw.githubusercontent.com/Robin-Anmol/repo-image/master/Repo-Images/Muscle-Feast-5.png
 "Responsive Muscle Feast App With ExerciseDB API")
 
 
